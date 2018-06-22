@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class Merchant 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 5673802411960421414L;
+    private static final long serialVersionUID = 5191998870099180986L;
     private String name;
     /** GETTER
      * TODO: Write general description for this method

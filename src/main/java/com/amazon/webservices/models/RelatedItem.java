@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class RelatedItem 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 4999648767786323856L;
+    private static final long serialVersionUID = 5525748704407671377L;
     private Item item;
     /** GETTER
      * TODO: Write general description for this method

@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class EANList 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 5721433461774485306L;
+    private static final long serialVersionUID = 5606202083100876658L;
     private List<String> eANListElement;
     /** GETTER
      * TODO: Write general description for this method

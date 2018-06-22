@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class Image 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 4993485632111144979L;
+    private static final long serialVersionUID = 4725510526344021282L;
     private String uRL;
     private DecimalWithUnits height;
     private DecimalWithUnits width;

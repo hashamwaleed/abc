@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class CustomerReviews 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 5489650762399351938L;
+    private static final long serialVersionUID = 5004682784593482858L;
     private String iFrameURL;
     private Boolean hasReviews;
     /** GETTER

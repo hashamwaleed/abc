@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class CollectionParent 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 5666209267191213023L;
+    private static final long serialVersionUID = 4913698815721780295L;
     private String aSIN;
     private String title;
     /** GETTER

@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class Summary 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 5723562052520427973L;
+    private static final long serialVersionUID = 5748090088145165825L;
     private String promotionId;
     private String message;
     private String category;

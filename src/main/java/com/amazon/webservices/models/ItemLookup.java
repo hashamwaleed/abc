@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class ItemLookup 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 5192340218929150524L;
+    private static final long serialVersionUID = 5740072463955635923L;
     private String marketplaceDomain;
     private String aWSAccessKeyId;
     private String associateTag;

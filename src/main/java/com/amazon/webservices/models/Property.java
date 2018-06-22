@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class Property 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 5561332174489062341L;
+    private static final long serialVersionUID = 5276244884706392909L;
     private String name;
     private String value;
     /** GETTER

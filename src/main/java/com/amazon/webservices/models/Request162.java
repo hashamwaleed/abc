@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class Request162 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 4748894284805237260L;
+    private static final long serialVersionUID = 5751607372826668030L;
     private String isValid;
     private BrowseNodeLookupRequest browseNodeLookupRequest;
     private ItemSearchRequest itemSearchRequest;

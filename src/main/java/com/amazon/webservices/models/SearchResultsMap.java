@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class SearchResultsMap 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 4717741295816015625L;
+    private static final long serialVersionUID = 5633693169684268363L;
     private List<SearchIndex> searchIndex;
     /** GETTER
      * TODO: Write general description for this method

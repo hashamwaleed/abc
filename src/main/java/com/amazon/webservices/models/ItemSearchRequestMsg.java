@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class ItemSearchRequestMsg 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 4780386275101302024L;
+    private static final long serialVersionUID = 5420129390375334659L;
     private ItemSearch body;
     /** GETTER
      * TODO: Write general description for this method

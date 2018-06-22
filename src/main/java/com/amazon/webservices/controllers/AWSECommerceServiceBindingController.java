@@ -77,7 +77,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 5394605396327020222L;
+                    private static final long serialVersionUID = 5391135393619615486L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -187,7 +187,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 5053619433395206815L;
+                    private static final long serialVersionUID = 5616485594015433181L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -297,7 +297,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 5695219512714788021L;
+                    private static final long serialVersionUID = 5492430332677774568L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -407,7 +407,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 4992433644372933040L;
+                    private static final long serialVersionUID = 4893016174553525472L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -517,7 +517,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 5699463554919703000L;
+                    private static final long serialVersionUID = 4960557285929487020L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -627,7 +627,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 4719417304762628434L;
+                    private static final long serialVersionUID = 5412775094934180012L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -737,7 +737,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 5012923179992616443L;
+                    private static final long serialVersionUID = 4671631088937495855L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -847,7 +847,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 5352063396479764436L;
+                    private static final long serialVersionUID = 4867247163284249335L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -957,7 +957,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 5084122372539759456L;
+                    private static final long serialVersionUID = 5366968641746265224L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -1067,7 +1067,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 5204271154595304748L;
+                    private static final long serialVersionUID = 4845164536117642565L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -1177,7 +1177,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 5592370116664638757L;
+                    private static final long serialVersionUID = 5444690208038881750L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -1287,7 +1287,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 4998583524158814258L;
+                    private static final long serialVersionUID = 5093235667938071973L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -1397,7 +1397,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 4639446221499512071L;
+                    private static final long serialVersionUID = 5162591123765146675L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -1507,7 +1507,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 4658322329113423300L;
+                    private static final long serialVersionUID = 5337424900940962362L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -1617,7 +1617,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 5134769292188592732L;
+                    private static final long serialVersionUID = 5632463383294716933L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -1727,7 +1727,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 4920644814722936348L;
+                    private static final long serialVersionUID = 5736227857486493870L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -1837,7 +1837,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 4767788999130298019L;
+                    private static final long serialVersionUID = 5716292148026012825L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -1947,7 +1947,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 4975235574908714885L;
+                    private static final long serialVersionUID = 4858427261630374477L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -2057,7 +2057,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 4646384327449492012L;
+                    private static final long serialVersionUID = 5373035347773289370L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -2167,7 +2167,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 5581433633487570290L;
+                    private static final long serialVersionUID = 4629606159519747566L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -2277,7 +2277,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 4827138372343916566L;
+                    private static final long serialVersionUID = 5670094519565249339L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -2387,7 +2387,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 5553041415043798214L;
+                    private static final long serialVersionUID = 4649756535000875805L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -2497,7 +2497,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 5205226628040397894L;
+                    private static final long serialVersionUID = 5368389897683090480L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -2607,7 +2607,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 5158325652416882398L;
+                    private static final long serialVersionUID = 5387064107311868856L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -2717,7 +2717,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 5738631136363753488L;
+                    private static final long serialVersionUID = 4680513845565896204L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -2827,7 +2827,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 5466073343131981891L;
+                    private static final long serialVersionUID = 4655617377825867759L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -2937,7 +2937,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 4871675624126917306L;
+                    private static final long serialVersionUID = 5397053875190582187L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -3047,7 +3047,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 5428753605762002533L;
+                    private static final long serialVersionUID = 5672832690522445476L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -3157,7 +3157,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 5606947205684830914L;
+                    private static final long serialVersionUID = 5397853093223820707L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -3267,7 +3267,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 5190476932282416116L;
+                    private static final long serialVersionUID = 5590760676762522168L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -3377,7 +3377,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 5641870828354909396L;
+                    private static final long serialVersionUID = 5401885555387841457L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -3487,7 +3487,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 5636560548178000793L;
+                    private static final long serialVersionUID = 5539240115623425660L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -3597,7 +3597,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 5311771807799824303L;
+                    private static final long serialVersionUID = 5084737881837129841L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -3707,7 +3707,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 5687275674048096472L;
+                    private static final long serialVersionUID = 5621883770750492276L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -3817,7 +3817,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 5328320479083045805L;
+                    private static final long serialVersionUID = 4650768811486709788L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -3927,7 +3927,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 5429198667015458121L;
+                    private static final long serialVersionUID = 5193030183823354276L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -4037,7 +4037,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 4803502821649131654L;
+                    private static final long serialVersionUID = 4666293420547170373L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -4147,7 +4147,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 5315666454391487649L;
+                    private static final long serialVersionUID = 5448587878590244797L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -4257,7 +4257,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 5400319171075428825L;
+                    private static final long serialVersionUID = 5039425557276838981L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -4367,7 +4367,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 5376887188302363587L;
+                    private static final long serialVersionUID = 5268235497188819378L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -4477,7 +4477,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 5737787594088426207L;
+                    private static final long serialVersionUID = 5125385563373131014L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -4587,7 +4587,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 5490065606093180060L;
+                    private static final long serialVersionUID = 4650343898046531698L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -4697,7 +4697,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 5737770378368602230L;
+                    private static final long serialVersionUID = 5343985361725128498L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -4807,7 +4807,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 5151385231555792460L;
+                    private static final long serialVersionUID = 5561656100551142533L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -4917,7 +4917,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 4899937133130100070L;
+                    private static final long serialVersionUID = 5103959237665678559L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -5027,7 +5027,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 4898138661042452091L;
+                    private static final long serialVersionUID = 5342802625767917603L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -5137,7 +5137,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 5602009070971142478L;
+                    private static final long serialVersionUID = 4613885150541467252L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -5247,7 +5247,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 4980656536353944458L;
+                    private static final long serialVersionUID = 5228802317976048196L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -5357,7 +5357,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 5127590088984893105L;
+                    private static final long serialVersionUID = 4992528439087209052L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -5467,7 +5467,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 5256849716240317099L;
+                    private static final long serialVersionUID = 5072779550868789176L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -5577,7 +5577,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 4979691553403344871L;
+                    private static final long serialVersionUID = 4746023394094891750L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -5687,7 +5687,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 5293319332647934689L;
+                    private static final long serialVersionUID = 4952839755094590973L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -5797,7 +5797,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 5238104584594331207L;
+                    private static final long serialVersionUID = 4807267607618644051L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -5907,7 +5907,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 4920248777026104824L;
+                    private static final long serialVersionUID = 5263520659124887967L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -6017,7 +6017,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 5400266184578726616L;
+                    private static final long serialVersionUID = 5472263334087387469L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -6127,7 +6127,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 4860781055609362968L;
+                    private static final long serialVersionUID = 4628926123310028508L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -6237,7 +6237,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 5183839271375724714L;
+                    private static final long serialVersionUID = 5357488881919280359L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -6347,7 +6347,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 5205964342483035533L;
+                    private static final long serialVersionUID = 5369136261706297055L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -6457,7 +6457,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 4738125959471291085L;
+                    private static final long serialVersionUID = 5603987701072921684L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -6567,7 +6567,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 5460955940258427440L;
+                    private static final long serialVersionUID = 4723782314917226558L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -6677,7 +6677,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 5281362847162646928L;
+                    private static final long serialVersionUID = 5536754776866238326L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -6787,7 +6787,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 5158362651923490385L;
+                    private static final long serialVersionUID = 5032939782143351682L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -6897,7 +6897,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 4688000951116216756L;
+                    private static final long serialVersionUID = 5454227105762886723L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -7007,7 +7007,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 4979558841093591870L;
+                    private static final long serialVersionUID = 5686330375854951885L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -7117,7 +7117,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 4805706522107349113L;
+                    private static final long serialVersionUID = 5486374844244324701L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -7227,7 +7227,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 4989525212853677913L;
+                    private static final long serialVersionUID = 5606421017777266848L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -7337,7 +7337,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 4702298870775761773L;
+                    private static final long serialVersionUID = 5285358714237843544L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -7447,7 +7447,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 5543220469269680866L;
+                    private static final long serialVersionUID = 4934097570992119475L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -7557,7 +7557,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 4849725645653947244L;
+                    private static final long serialVersionUID = 5050182391067401677L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -7667,7 +7667,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 5375797482625735367L;
+                    private static final long serialVersionUID = 5438680088897373024L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -7777,7 +7777,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 5203490827742041973L;
+                    private static final long serialVersionUID = 5511997397823160219L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -7887,7 +7887,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 5270883876344561732L;
+                    private static final long serialVersionUID = 4727912145163619046L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -7997,7 +7997,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 5384376035276094425L;
+                    private static final long serialVersionUID = 4842138313272429397L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -8107,7 +8107,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 4999831437999818149L;
+                    private static final long serialVersionUID = 5080884739811175568L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -8217,7 +8217,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 4822451404195948324L;
+                    private static final long serialVersionUID = 5246077645452774105L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -8327,7 +8327,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 5595440149745642705L;
+                    private static final long serialVersionUID = 5573100523908007616L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -8437,7 +8437,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 5143289012527316990L;
+                    private static final long serialVersionUID = 5149032018555158775L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -8547,7 +8547,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 5186310945254614433L;
+                    private static final long serialVersionUID = 5192758913647443168L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -8657,7 +8657,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 5359631453059562495L;
+                    private static final long serialVersionUID = 5291767627475592874L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -8767,7 +8767,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 5611655125824719942L;
+                    private static final long serialVersionUID = 4976212747552078304L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -8877,7 +8877,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 4744301751534781324L;
+                    private static final long serialVersionUID = 5286757064566810974L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -8987,7 +8987,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 4670495020096024193L;
+                    private static final long serialVersionUID = 5119609902977340295L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -9097,7 +9097,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 4950015739534234804L;
+                    private static final long serialVersionUID = 5098885349707267382L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -9207,7 +9207,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 5486654286526376874L;
+                    private static final long serialVersionUID = 5272137281889906580L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -9317,7 +9317,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 5077925527647817395L;
+                    private static final long serialVersionUID = 5520934695003011816L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -9427,7 +9427,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 5506630264774509394L;
+                    private static final long serialVersionUID = 5355274570709598266L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -9537,7 +9537,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 5408923763809926494L;
+                    private static final long serialVersionUID = 4637945763250530929L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -9647,7 +9647,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 4750037642025940730L;
+                    private static final long serialVersionUID = 5055609153040162357L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -9757,7 +9757,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 5496181033016058775L;
+                    private static final long serialVersionUID = 4868044564134067925L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -9867,7 +9867,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 5714470619710400673L;
+                    private static final long serialVersionUID = 5688494256166546173L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -9977,7 +9977,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 5209595032279208446L;
+                    private static final long serialVersionUID = 5092849358891831671L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -10087,7 +10087,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 5177799768390767367L;
+                    private static final long serialVersionUID = 5037106788721160828L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -10197,7 +10197,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 5130943636575300349L;
+                    private static final long serialVersionUID = 5178532275136417627L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -10307,7 +10307,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 5709486626059945007L;
+                    private static final long serialVersionUID = 4760654818167690094L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -10417,7 +10417,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 5739872368522010954L;
+                    private static final long serialVersionUID = 4801748478386897903L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -10527,7 +10527,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 4828522465400409825L;
+                    private static final long serialVersionUID = 5006437006070557550L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -10637,7 +10637,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 5183443890163723850L;
+                    private static final long serialVersionUID = 4736446571983974325L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -10747,7 +10747,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 4681222485378320083L;
+                    private static final long serialVersionUID = 5008255773748245801L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );
@@ -10857,7 +10857,7 @@ public class AWSECommerceServiceBindingController extends BaseController {
 
                 //load all headers for the outgoing API request
                 Map<String, String> _headers = new HashMap<String, String>() {
-                    private static final long serialVersionUID = 4839598687585781856L;
+                    private static final long serialVersionUID = 5479764229990940151L;
                     {
                         put( "user-agent", "APIMATIC 2.0" );
                         put( "accept", "application/json" );

@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class Item34 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 4695903014314911959L;
+    private static final long serialVersionUID = 5281221251268862290L;
     private ActionEnum action;
     private String cartItemId;
     private Integer quantity;

@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class OperationRequest 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 5499306261708964538L;
+    private static final long serialVersionUID = 5402038107590586757L;
     private HTTPHeaders hTTPHeaders;
     private String requestId;
     private Arguments arguments;

@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class BrowseNodeLookupResponseMsg 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 4673029571831321074L;
+    private static final long serialVersionUID = 5009750343802811791L;
     private BrowseNodeLookupResponse body;
     /** GETTER
      * TODO: Write general description for this method

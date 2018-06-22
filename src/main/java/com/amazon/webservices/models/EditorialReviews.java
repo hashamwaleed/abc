@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class EditorialReviews 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 4958126012732177718L;
+    private static final long serialVersionUID = 5378897059839694230L;
     private List<EditorialReview> editorialReview;
     /** GETTER
      * TODO: Write general description for this method

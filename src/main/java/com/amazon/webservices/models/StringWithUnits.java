@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class StringWithUnits 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 4843118177957867107L;
+    private static final long serialVersionUID = 4778992259555140150L;
     private String units;
     /** GETTER
      * TODO: Write general description for this method

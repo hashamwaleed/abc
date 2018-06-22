@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class Track 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 5261939373336146129L;
+    private static final long serialVersionUID = 5552416197487180051L;
     private int number;
     /** GETTER
      * TODO: Write general description for this method

@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class HTTPHeaders 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 5534268586303533261L;
+    private static final long serialVersionUID = 5249870437068315674L;
     private List<Header> header;
     /** GETTER
      * TODO: Write general description for this method

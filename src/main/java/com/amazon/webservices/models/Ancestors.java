@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class Ancestors 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 5394424171732317067L;
+    private static final long serialVersionUID = 5267416797368944188L;
     private List<BrowseNode> browseNode;
     /** GETTER
      * TODO: Write general description for this method

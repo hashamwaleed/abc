@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class Languages 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 4914135796524152451L;
+    private static final long serialVersionUID = 5163328223514456089L;
     private List<Language> language;
     /** GETTER
      * TODO: Write general description for this method

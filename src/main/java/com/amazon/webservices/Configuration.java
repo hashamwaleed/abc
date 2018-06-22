@@ -25,7 +25,7 @@ public class Configuration {
     public static String getBaseUri(Servers server) {
         StringBuilder baseUrl = new StringBuilder(environmentsMap.get(Configuration.environment).get(server));
         Map<String, Object> parameters = new HashMap<String, Object>() {
-            private static final long serialVersionUID = 5282630345413118929L;
+            private static final long serialVersionUID = 4816038709867939871L;
             {
             }
         };
@@ -45,10 +45,10 @@ public class Configuration {
      * Map of all base URLs by environments and server aliases 
      */
     private static EnumMap<Environments, EnumMap<Servers, String>> environmentsMap = new EnumMap<Environments, EnumMap<Servers,String>>(Environments.class) {
-        private static final long serialVersionUID = 5395897929743375974L;
+        private static final long serialVersionUID = 5207709740986595185L;
         {
             put(Environments.PRODUCTION , new EnumMap<Servers, String>(Servers.class) {
-                private static final long serialVersionUID = 5647781918109568869L;
+                private static final long serialVersionUID = 5259298149020148838L;
                 {
                     put(Servers.AWSECOMMERCESERVICEPORT, "https://webservices.amazon.com/onca/soap?Service=AWSECommerceService");
                     put(Servers.AWSECOMMERCESERVICEPORTCA, "https://webservices.amazon.ca/onca/soap?Service=AWSECommerceService");

@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class CartCreate 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 5727439752250945064L;
+    private static final long serialVersionUID = 5678984399513372203L;
     private String marketplaceDomain;
     private String aWSAccessKeyId;
     private String associateTag;

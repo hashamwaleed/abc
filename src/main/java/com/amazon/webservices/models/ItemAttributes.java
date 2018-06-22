@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class ItemAttributes 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 5165829772228085520L;
+    private static final long serialVersionUID = 5459091843247523583L;
     private List<String> actor;
     private List<String> artist;
     private String aspectRatio;

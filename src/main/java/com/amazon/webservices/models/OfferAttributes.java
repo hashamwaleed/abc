@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class OfferAttributes 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 5285637736836058031L;
+    private static final long serialVersionUID = 5655645446068530290L;
     private ConditionEnum condition;
     /** GETTER
      * TODO: Write general description for this method

@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class Subjects 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 5408128800755441037L;
+    private static final long serialVersionUID = 5632339165117414752L;
     private List<String> subject;
     /** GETTER
      * TODO: Write general description for this method

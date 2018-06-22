@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class OtherCategoriesSimilarProduct 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 5729958520851755302L;
+    private static final long serialVersionUID = 4771129357065037058L;
     private String aSIN;
     private String title;
     /** GETTER

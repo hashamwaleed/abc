@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class RentalListing 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 4874044613719822210L;
+    private static final long serialVersionUID = 5728016414102478216L;
     private Price price;
     private NonNegativeIntegerWithUnits period;
     private Boolean isFulfilledByAmazon;

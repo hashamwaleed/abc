@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class SimilarityLookupRequest 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 5325710979172652538L;
+    private static final long serialVersionUID = 4952433494938300497L;
     private ConditionEnum condition;
     private List<String> itemId;
     private String merchantId;

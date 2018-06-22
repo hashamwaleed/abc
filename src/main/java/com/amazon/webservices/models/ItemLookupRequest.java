@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class ItemLookupRequest 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 4723300941476111894L;
+    private static final long serialVersionUID = 5610921648323408911L;
     private ConditionEnum condition;
     private IdTypeEnum idType;
     private String merchantId;

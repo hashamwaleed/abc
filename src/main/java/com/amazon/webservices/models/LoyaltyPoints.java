@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class LoyaltyPoints 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 4788592713795167814L;
+    private static final long serialVersionUID = 5697571754477541786L;
     private Integer points;
     private Price typicalRedemptionValue;
     /** GETTER

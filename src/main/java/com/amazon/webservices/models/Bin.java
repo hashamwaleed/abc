@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class Bin 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 5663083034822032706L;
+    private static final long serialVersionUID = 5579119861141714860L;
     private String binName;
     private int binItemCount;
     private List<BinParameter> binParameter;

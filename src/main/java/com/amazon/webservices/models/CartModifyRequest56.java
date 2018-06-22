@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class CartModifyRequest56 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 5738350401205579850L;
+    private static final long serialVersionUID = 5418251214122811666L;
     private String cartId;
     private String hMAC;
     private String mergeCart;

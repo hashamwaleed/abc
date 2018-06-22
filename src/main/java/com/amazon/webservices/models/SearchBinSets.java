@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class SearchBinSets 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 5231528026434614841L;
+    private static final long serialVersionUID = 4923288622969583902L;
     private List<SearchBinSet> searchBinSet;
     /** GETTER
      * TODO: Write general description for this method

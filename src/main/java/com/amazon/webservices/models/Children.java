@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class Children 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 5311760263811669307L;
+    private static final long serialVersionUID = 5243114401685044773L;
     private List<BrowseNode> browseNode;
     /** GETTER
      * TODO: Write general description for this method

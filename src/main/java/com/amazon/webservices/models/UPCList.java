@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class UPCList 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 5292663712030272517L;
+    private static final long serialVersionUID = 5713230481658258011L;
     private List<String> uPCListElement;
     /** GETTER
      * TODO: Write general description for this method

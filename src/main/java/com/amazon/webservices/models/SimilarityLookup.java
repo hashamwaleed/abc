@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class SimilarityLookup 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 4717614814332345868L;
+    private static final long serialVersionUID = 4729250432551051366L;
     private String marketplaceDomain;
     private String aWSAccessKeyId;
     private String associateTag;

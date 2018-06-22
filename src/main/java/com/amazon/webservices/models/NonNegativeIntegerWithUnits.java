@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class NonNegativeIntegerWithUnits 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 5171343103712450924L;
+    private static final long serialVersionUID = 5173481045346516488L;
     private String units;
     /** GETTER
      * TODO: Write general description for this method

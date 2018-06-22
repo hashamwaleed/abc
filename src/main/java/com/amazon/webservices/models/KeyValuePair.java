@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class KeyValuePair 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 5456800207599664861L;
+    private static final long serialVersionUID = 5159091534506609611L;
     private String key;
     private String value;
     /** GETTER

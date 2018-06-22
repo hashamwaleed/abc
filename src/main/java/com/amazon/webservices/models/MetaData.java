@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class MetaData 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 4992765905078976467L;
+    private static final long serialVersionUID = 5288397086085909323L;
     private String key;
     private String value;
     /** GETTER

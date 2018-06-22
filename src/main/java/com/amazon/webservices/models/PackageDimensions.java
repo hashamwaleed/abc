@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class PackageDimensions 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 5465043784263429376L;
+    private static final long serialVersionUID = 5001051287290813943L;
     private DecimalWithUnits height;
     private DecimalWithUnits length;
     private DecimalWithUnits weight;

@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class CartGetResponse 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 4825801480634453977L;
+    private static final long serialVersionUID = 5707794206232521075L;
     private OperationRequest operationRequest;
     private List<Cart> cart;
     /** GETTER

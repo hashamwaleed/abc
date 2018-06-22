@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class Promotions 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 4689617235141855925L;
+    private static final long serialVersionUID = 5599456967985913663L;
     private List<Promotion> promotion;
     /** GETTER
      * TODO: Write general description for this method

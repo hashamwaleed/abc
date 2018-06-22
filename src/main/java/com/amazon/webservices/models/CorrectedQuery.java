@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class CorrectedQuery 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 5647296065861223666L;
+    private static final long serialVersionUID = 4724460594711777814L;
     private String keywords;
     private String message;
     /** GETTER

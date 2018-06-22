@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class Language 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 4728146255793437344L;
+    private static final long serialVersionUID = 5556484365206170133L;
     private String name;
     private String type;
     private String audioFormat;

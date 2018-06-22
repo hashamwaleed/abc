@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class OfferSummary 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 5436927252912102426L;
+    private static final long serialVersionUID = 4784813608285023676L;
     private Price lowestNewPrice;
     private Price lowestUsedPrice;
     private Price lowestCollectiblePrice;

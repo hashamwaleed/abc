@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class ImageSets 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 5015370585153602918L;
+    private static final long serialVersionUID = 4694763990210562330L;
     private List<ImageSet> imageSet;
     /** GETTER
      * TODO: Write general description for this method

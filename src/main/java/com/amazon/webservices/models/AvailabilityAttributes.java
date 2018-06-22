@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class AvailabilityAttributes 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 4764166058102272505L;
+    private static final long serialVersionUID = 5308835653171281686L;
     private String availabilityType;
     private Boolean isPreorder;
     private Integer minimumHours;

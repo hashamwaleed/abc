@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class Variations267 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 5447801178807806863L;
+    private static final long serialVersionUID = 5752967740401236083L;
     private Integer totalVariations;
     private Integer totalVariationPages;
     private VariationDimensions variationDimensions;

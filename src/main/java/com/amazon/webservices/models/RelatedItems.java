@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class RelatedItems 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 5619376310487856296L;
+    private static final long serialVersionUID = 4751569628135160730L;
     private RelationshipEnum relationship;
     private String relationshipType;
     private Integer relatedItemCount;

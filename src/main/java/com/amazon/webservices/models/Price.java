@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class Price 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 4644513319866059545L;
+    private static final long serialVersionUID = 4954410282820318152L;
     private String formattedPrice;
     private Integer amount;
     private String currencyCode;

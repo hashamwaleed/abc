@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class EditorialReview 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 5334423456789771040L;
+    private static final long serialVersionUID = 5672452771022395634L;
     private String source;
     private String content;
     private Boolean isLinkSuppressed;

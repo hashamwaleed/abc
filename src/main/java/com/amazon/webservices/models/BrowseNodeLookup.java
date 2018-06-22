@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class BrowseNodeLookup 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 5094261906403925232L;
+    private static final long serialVersionUID = 5190290507010005010L;
     private String marketplaceDomain;
     private String aWSAccessKeyId;
     private String associateTag;

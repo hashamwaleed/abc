@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class Item23 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 5443329751452647724L;
+    private static final long serialVersionUID = 5213313794032122398L;
     private String aSIN;
     private String offerListingId;
     private Integer quantity;

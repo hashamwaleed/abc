@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class TopItem 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 5416658989082191461L;
+    private static final long serialVersionUID = 5023276469745987365L;
     private String aSIN;
     private String title;
     private String detailPageURL;

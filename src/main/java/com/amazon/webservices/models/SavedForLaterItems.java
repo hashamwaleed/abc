@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class SavedForLaterItems 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 5612939927720992566L;
+    private static final long serialVersionUID = 5714006410751891167L;
     private List<CartItem> savedForLaterItem;
     private Price subTotal;
     /** GETTER

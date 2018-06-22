@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class Tracks 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 4996526043463572616L;
+    private static final long serialVersionUID = 5363670802984789679L;
     private List<Disc> disc;
     /** GETTER
      * TODO: Write general description for this method
